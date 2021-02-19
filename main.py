@@ -49,7 +49,9 @@ def get_folder_path(child_name):
     folder_path = [save_path + child_name + "\\1k",
             save_path + child_name + "\\2k",
             save_path + child_name + "\\4k",
-            save_path + child_name + "\\8k"]
+            save_path + child_name + "\\8k",
+            save_path + child_name + "\\16k",
+            save_path + child_name + "\\19k"]
 
     return folder_path
 
@@ -59,9 +61,10 @@ def create_paths(child_name):
 
     try:
         for path in paths:
-            os.makedirs(path)
-    except OSError:
-        pass
+            if (os.path.exists(path) == False):
+                os.makedirs(path)
+    except OSError as e:
+        print(e)
     else:
         pass
     return paths
@@ -74,10 +77,14 @@ def get_download_links(child_name):
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("2k", child_name, "2k"),
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("4k", child_name, "4k"),
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("8k", child_name, "8k"),
+                    "https://download.polyhaven.com/HDRIs/16k and up/{0}_{1}.exr".format(child_name, "16k"),
+                    "https://download.polyhaven.com/HDRIs/19k and up/{0}_{1}.exr".format(child_name, "19k"),
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("1k", child_name, "1k"),
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("2k", child_name, "2k"),
                     "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("4k", child_name, "4k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("8k", child_name, "8k")]
+                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("8k", child_name, "8k"),
+                    "https://download.polyhaven.com/HDRIs/16k and up/{0}_{1}.hdr".format(child_name, "16k"),
+                    "https://download.polyhaven.com/HDRIs/19k and up/{0}_{1}.hdr".format(child_name, "19k")]
 
     return download_links
 
@@ -103,8 +110,9 @@ def download_files(driver, child_name, path, debug=False):
     download_path = get_download_path()
 
     for i, path in enumerate(path, start=0):
-        if (getFolderSize(path) > 0):
-            continue
+        if (os.path.exists(path) == True):
+            if (getFolderSize(path) > 0):
+                continue
         
         for _ in range(2):
             driver.get(download_links[i])
