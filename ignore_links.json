@@ -1,0 +1,3086 @@
+[
+    {
+        "xanderklinge_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/xanderklinge_16k.exr"
+    },
+    {
+        "xanderklinge_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/xanderklinge_16k.hdr"
+    },
+    {
+        "xanderklinge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/xanderklinge_19k.exr"
+    },
+    {
+        "xanderklinge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/xanderklinge_19k.hdr"
+    },
+    {
+        "parched_canal_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/parched_canal_16k.exr"
+    },
+    {
+        "parched_canal_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/parched_canal_16k.hdr"
+    },
+    {
+        "parched_canal_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/parched_canal_19k.exr"
+    },
+    {
+        "parched_canal_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/parched_canal_19k.hdr"
+    },
+    {
+        "christmas_photo_studio_04_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/christmas_photo_studio_04_16k.exr"
+    },
+    {
+        "christmas_photo_studio_04_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/christmas_photo_studio_04_16k.hdr"
+    },
+    {
+        "christmas_photo_studio_04_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_04_19k.exr"
+    },
+    {
+        "christmas_photo_studio_04_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_04_19k.hdr"
+    },
+    {
+        "drachenfels_cellar_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/drachenfels_cellar_16k.exr"
+    },
+    {
+        "drachenfels_cellar_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/drachenfels_cellar_16k.hdr"
+    },
+    {
+        "drachenfels_cellar_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/drachenfels_cellar_19k.exr"
+    },
+    {
+        "drachenfels_cellar_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/drachenfels_cellar_19k.hdr"
+    },
+    {
+        "snowy_field_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/snowy_field_16k.exr"
+    },
+    {
+        "snowy_field_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/snowy_field_16k.hdr"
+    },
+    {
+        "snowy_field_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_field_19k.exr"
+    },
+    {
+        "snowy_field_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_field_19k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/comfy_caf\u00e9_1k.exr"
+    },
+    {
+        "comfy_caf\u00e9_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/comfy_caf\u00e9_1k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/comfy_caf\u00e9_2k.exr"
+    },
+    {
+        "comfy_caf\u00e9_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/comfy_caf\u00e9_2k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/comfy_caf\u00e9_4k.exr"
+    },
+    {
+        "comfy_caf\u00e9_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/comfy_caf\u00e9_4k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/comfy_caf\u00e9_8k.exr"
+    },
+    {
+        "comfy_caf\u00e9_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/comfy_caf\u00e9_8k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/comfy_caf\u00e9_16k.exr"
+    },
+    {
+        "comfy_caf\u00e9_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/comfy_caf\u00e9_16k.hdr"
+    },
+    {
+        "comfy_caf\u00e9_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/comfy_caf\u00e9_19k.exr"
+    },
+    {
+        "comfy_caf\u00e9_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/comfy_caf\u00e9_19k.hdr"
+    },
+    {
+        "blaubeuren_hillside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_hillside_19k.exr"
+    },
+    {
+        "blaubeuren_hillside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_hillside_19k.hdr"
+    },
+    {
+        "christmas_photo_studio_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_02_19k.exr"
+    },
+    {
+        "christmas_photo_studio_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_02_19k.hdr"
+    },
+    {
+        "decor_shop_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/decor_shop_19k.exr"
+    },
+    {
+        "decor_shop_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/decor_shop_19k.hdr"
+    },
+    {
+        "snowy_hillside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_hillside_19k.exr"
+    },
+    {
+        "snowy_hillside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_hillside_19k.hdr"
+    },
+    {
+        "christmas_photo_studio_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_01_19k.exr"
+    },
+    {
+        "christmas_photo_studio_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/christmas_photo_studio_01_19k.hdr"
+    },
+    {
+        "rural_graffiti_tower_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_graffiti_tower_19k.exr"
+    },
+    {
+        "rural_graffiti_tower_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_graffiti_tower_19k.hdr"
+    },
+    {
+        "reinforced_concrete_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reinforced_concrete_02_19k.exr"
+    },
+    {
+        "reinforced_concrete_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reinforced_concrete_02_19k.hdr"
+    },
+    {
+        "oberer_kuhberg_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/oberer_kuhberg_19k.exr"
+    },
+    {
+        "oberer_kuhberg_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/oberer_kuhberg_19k.hdr"
+    },
+    {
+        "blaubeuren_church_square_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_church_square_19k.exr"
+    },
+    {
+        "blaubeuren_church_square_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_church_square_19k.hdr"
+    },
+    {
+        "muddy_autumn_forest_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/muddy_autumn_forest_19k.exr"
+    },
+    {
+        "muddy_autumn_forest_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/muddy_autumn_forest_19k.hdr"
+    },
+    {
+        "neurathen_rock_castle_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/neurathen_rock_castle_19k.exr"
+    },
+    {
+        "neurathen_rock_castle_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/neurathen_rock_castle_19k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/herkuless\u00e4ulen_1k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/herkuless\u00e4ulen_1k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/herkuless\u00e4ulen_2k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/herkuless\u00e4ulen_2k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/herkuless\u00e4ulen_4k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/herkuless\u00e4ulen_4k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/herkuless\u00e4ulen_8k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/herkuless\u00e4ulen_8k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/herkuless\u00e4ulen_16k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/herkuless\u00e4ulen_16k.hdr"
+    },
+    {
+        "herkuless\u00e4ulen_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/herkuless\u00e4ulen_19k.exr"
+    },
+    {
+        "herkuless\u00e4ulen_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/herkuless\u00e4ulen_19k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/immenst\u00e4dter_horn_1k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/immenst\u00e4dter_horn_1k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/immenst\u00e4dter_horn_2k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/immenst\u00e4dter_horn_2k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/immenst\u00e4dter_horn_4k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/immenst\u00e4dter_horn_4k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/immenst\u00e4dter_horn_8k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/immenst\u00e4dter_horn_8k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/immenst\u00e4dter_horn_16k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/immenst\u00e4dter_horn_16k.hdr"
+    },
+    {
+        "immenst\u00e4dter_horn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/immenst\u00e4dter_horn_19k.exr"
+    },
+    {
+        "immenst\u00e4dter_horn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/immenst\u00e4dter_horn_19k.hdr"
+    },
+    {
+        "abandoned_factory_canteen_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_factory_canteen_02_19k.exr"
+    },
+    {
+        "abandoned_factory_canteen_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_factory_canteen_02_19k.hdr"
+    },
+    {
+        "abandoned_factory_canteen_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_factory_canteen_01_19k.exr"
+    },
+    {
+        "abandoned_factory_canteen_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_factory_canteen_01_19k.hdr"
+    },
+    {
+        "cannon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cannon_19k.exr"
+    },
+    {
+        "cannon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cannon_19k.hdr"
+    },
+    {
+        "sunset_forest_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/sunset_forest_16k.exr"
+    },
+    {
+        "sunset_forest_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/sunset_forest_16k.hdr"
+    },
+    {
+        "sunset_forest_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_forest_19k.exr"
+    },
+    {
+        "sunset_forest_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_forest_19k.hdr"
+    },
+    {
+        "st._fagans_interior_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/st._fagans_interior_1k.exr"
+    },
+    {
+        "st._fagans_interior_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/st._fagans_interior_1k.hdr"
+    },
+    {
+        "st._fagans_interior_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/st._fagans_interior_2k.exr"
+    },
+    {
+        "st._fagans_interior_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/st._fagans_interior_2k.hdr"
+    },
+    {
+        "st._fagans_interior_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/st._fagans_interior_4k.exr"
+    },
+    {
+        "st._fagans_interior_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/st._fagans_interior_4k.hdr"
+    },
+    {
+        "st._fagans_interior_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/st._fagans_interior_8k.exr"
+    },
+    {
+        "st._fagans_interior_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/st._fagans_interior_8k.hdr"
+    },
+    {
+        "st._fagans_interior_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/st._fagans_interior_16k.exr"
+    },
+    {
+        "st._fagans_interior_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/st._fagans_interior_16k.hdr"
+    },
+    {
+        "st._fagans_interior_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/st._fagans_interior_19k.exr"
+    },
+    {
+        "st._fagans_interior_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/st._fagans_interior_19k.hdr"
+    },
+    {
+        "suburban_parking_area_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/suburban_parking_area_19k.exr"
+    },
+    {
+        "suburban_parking_area_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/suburban_parking_area_19k.hdr"
+    },
+    {
+        "future_parking_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/future_parking_19k.exr"
+    },
+    {
+        "future_parking_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/future_parking_19k.hdr"
+    },
+    {
+        "forest_cave_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/forest_cave_19k.exr"
+    },
+    {
+        "forest_cave_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/forest_cave_19k.hdr"
+    },
+    {
+        "gamrig_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gamrig_19k.exr"
+    },
+    {
+        "gamrig_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gamrig_19k.hdr"
+    },
+    {
+        "abandoned_waterworks_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_waterworks_19k.exr"
+    },
+    {
+        "abandoned_waterworks_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_waterworks_19k.hdr"
+    },
+    {
+        "lauter_waterfall_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lauter_waterfall_19k.exr"
+    },
+    {
+        "lauter_waterfall_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lauter_waterfall_19k.hdr"
+    },
+    {
+        "bismarckturm_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bismarckturm_19k.exr"
+    },
+    {
+        "bismarckturm_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bismarckturm_19k.hdr"
+    },
+    {
+        "kloppenheim_06_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_06_19k.exr"
+    },
+    {
+        "kloppenheim_06_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_06_19k.hdr"
+    },
+    {
+        "auto_service_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/auto_service_19k.exr"
+    },
+    {
+        "auto_service_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/auto_service_19k.hdr"
+    },
+    {
+        "blaubeuren_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_night_19k.exr"
+    },
+    {
+        "blaubeuren_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_night_19k.hdr"
+    },
+    {
+        "small_rural_road_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_rural_road_02_19k.exr"
+    },
+    {
+        "small_rural_road_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_rural_road_02_19k.hdr"
+    },
+    {
+        "empty_warehouse_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/empty_warehouse_01_19k.exr"
+    },
+    {
+        "empty_warehouse_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/empty_warehouse_01_19k.hdr"
+    },
+    {
+        "green_sanctuary_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/green_sanctuary_19k.exr"
+    },
+    {
+        "green_sanctuary_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/green_sanctuary_19k.hdr"
+    },
+    {
+        "kloppenheim_07_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_07_19k.exr"
+    },
+    {
+        "kloppenheim_07_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_07_19k.hdr"
+    },
+    {
+        "abandoned_tank_farm_04_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_04_19k.exr"
+    },
+    {
+        "abandoned_tank_farm_04_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_04_19k.hdr"
+    },
+    {
+        "chinese_garden_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/chinese_garden_19k.exr"
+    },
+    {
+        "chinese_garden_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/chinese_garden_19k.hdr"
+    },
+    {
+        "urban_alley_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_alley_01_19k.exr"
+    },
+    {
+        "urban_alley_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_alley_01_19k.hdr"
+    },
+    {
+        "abandoned_tank_farm_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_03_19k.exr"
+    },
+    {
+        "abandoned_tank_farm_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_03_19k.hdr"
+    },
+    {
+        "concrete_tunnel_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/concrete_tunnel_02_19k.exr"
+    },
+    {
+        "concrete_tunnel_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/concrete_tunnel_02_19k.hdr"
+    },
+    {
+        "pump_station_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pump_station_19k.exr"
+    },
+    {
+        "pump_station_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pump_station_19k.hdr"
+    },
+    {
+        "monte_scherbelino_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/monte_scherbelino_19k.exr"
+    },
+    {
+        "monte_scherbelino_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/monte_scherbelino_19k.hdr"
+    },
+    {
+        "abandoned_tank_farm_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_02_19k.exr"
+    },
+    {
+        "abandoned_tank_farm_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_02_19k.hdr"
+    },
+    {
+        "abandoned_tank_farm_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_01_19k.exr"
+    },
+    {
+        "abandoned_tank_farm_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_tank_farm_01_19k.hdr"
+    },
+    {
+        "the_lost_city_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/the_lost_city_19k.exr"
+    },
+    {
+        "the_lost_city_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/the_lost_city_19k.hdr"
+    },
+    {
+        "small_rural_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_rural_road_19k.exr"
+    },
+    {
+        "small_rural_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_rural_road_19k.hdr"
+    },
+    {
+        "autumn_forest_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_03_19k.exr"
+    },
+    {
+        "autumn_forest_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_03_19k.hdr"
+    },
+    {
+        "ballroom_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ballroom_19k.exr"
+    },
+    {
+        "ballroom_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ballroom_19k.hdr"
+    },
+    {
+        "construction_yard_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/construction_yard_19k.exr"
+    },
+    {
+        "construction_yard_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/construction_yard_19k.hdr"
+    },
+    {
+        "abandoned_hopper_terminal_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hopper_terminal_02_19k.exr"
+    },
+    {
+        "abandoned_hopper_terminal_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hopper_terminal_02_19k.hdr"
+    },
+    {
+        "blau_river_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blau_river_19k.exr"
+    },
+    {
+        "blau_river_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blau_river_19k.hdr"
+    },
+    {
+        "stone_alley_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_03_19k.exr"
+    },
+    {
+        "stone_alley_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_03_19k.hdr"
+    },
+    {
+        "small_cathedral_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cathedral_02_19k.exr"
+    },
+    {
+        "small_cathedral_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cathedral_02_19k.hdr"
+    },
+    {
+        "abandoned_hopper_terminal_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hopper_terminal_01_19k.exr"
+    },
+    {
+        "abandoned_hopper_terminal_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hopper_terminal_01_19k.hdr"
+    },
+    {
+        "wooden_motel_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wooden_motel_19k.exr"
+    },
+    {
+        "wooden_motel_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wooden_motel_19k.hdr"
+    },
+    {
+        "palermo_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_park_19k.exr"
+    },
+    {
+        "palermo_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_park_19k.hdr"
+    },
+    {
+        "flower_hillside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/flower_hillside_19k.exr"
+    },
+    {
+        "flower_hillside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/flower_hillside_19k.hdr"
+    },
+    {
+        "quattro_canti_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quattro_canti_19k.exr"
+    },
+    {
+        "quattro_canti_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quattro_canti_19k.hdr"
+    },
+    {
+        "small_cathedral_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cathedral_19k.exr"
+    },
+    {
+        "small_cathedral_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cathedral_19k.hdr"
+    },
+    {
+        "kloppenheim_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_03_19k.exr"
+    },
+    {
+        "kloppenheim_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_03_19k.hdr"
+    },
+    {
+        "rural_landscape_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_landscape_19k.exr"
+    },
+    {
+        "rural_landscape_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_landscape_19k.hdr"
+    },
+    {
+        "railway_bridge_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/railway_bridge_02_19k.exr"
+    },
+    {
+        "railway_bridge_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/railway_bridge_02_19k.hdr"
+    },
+    {
+        "greenwich_park_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_03_19k.exr"
+    },
+    {
+        "greenwich_park_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_03_19k.hdr"
+    },
+    {
+        "stone_alley_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_02_19k.exr"
+    },
+    {
+        "stone_alley_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_02_19k.hdr"
+    },
+    {
+        "factory_yard_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/factory_yard_19k.exr"
+    },
+    {
+        "factory_yard_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/factory_yard_19k.hdr"
+    },
+    {
+        "autumn_forest_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_02_19k.exr"
+    },
+    {
+        "autumn_forest_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_02_19k.hdr"
+    },
+    {
+        "kloppenheim_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_01_19k.exr"
+    },
+    {
+        "kloppenheim_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_01_19k.hdr"
+    },
+    {
+        "photo_studio_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/photo_studio_01_19k.exr"
+    },
+    {
+        "photo_studio_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/photo_studio_01_19k.hdr"
+    },
+    {
+        "ruckenkreuz_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ruckenkreuz_19k.exr"
+    },
+    {
+        "ruckenkreuz_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ruckenkreuz_19k.hdr"
+    },
+    {
+        "palermo_sidewalk_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_sidewalk_19k.exr"
+    },
+    {
+        "palermo_sidewalk_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_sidewalk_19k.hdr"
+    },
+    {
+        "dirt_bike_track_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dirt_bike_track_01_19k.exr"
+    },
+    {
+        "dirt_bike_track_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dirt_bike_track_01_19k.hdr"
+    },
+    {
+        "abandoned_parking_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_parking_19k.exr"
+    },
+    {
+        "abandoned_parking_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_parking_19k.hdr"
+    },
+    {
+        "greenwich_park_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_02_19k.exr"
+    },
+    {
+        "greenwich_park_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_02_19k.hdr"
+    },
+    {
+        "kloppenheim_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_02_19k.exr"
+    },
+    {
+        "kloppenheim_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloppenheim_02_19k.hdr"
+    },
+    {
+        "spiaggia_di_mondello_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spiaggia_di_mondello_19k.exr"
+    },
+    {
+        "spiaggia_di_mondello_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spiaggia_di_mondello_19k.hdr"
+    },
+    {
+        "sunflowers_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunflowers_19k.exr"
+    },
+    {
+        "sunflowers_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunflowers_19k.hdr"
+    },
+    {
+        "autumn_meadow_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_meadow_19k.exr"
+    },
+    {
+        "autumn_meadow_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_meadow_19k.hdr"
+    },
+    {
+        "cambridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cambridge_19k.exr"
+    },
+    {
+        "cambridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cambridge_19k.hdr"
+    },
+    {
+        "freight_station_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/freight_station_19k.exr"
+    },
+    {
+        "freight_station_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/freight_station_19k.hdr"
+    },
+    {
+        "teatro_massimo_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teatro_massimo_19k.exr"
+    },
+    {
+        "teatro_massimo_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teatro_massimo_19k.hdr"
+    },
+    {
+        "birchwood_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/birchwood_19k.exr"
+    },
+    {
+        "birchwood_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/birchwood_19k.hdr"
+    },
+    {
+        "blaubeuren_outskirts_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_outskirts_19k.exr"
+    },
+    {
+        "blaubeuren_outskirts_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blaubeuren_outskirts_19k.hdr"
+    },
+    {
+        "driving_school_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/driving_school_19k.exr"
+    },
+    {
+        "driving_school_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/driving_school_19k.hdr"
+    },
+    {
+        "urban_street_04_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_04_19k.exr"
+    },
+    {
+        "urban_street_04_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_04_19k.hdr"
+    },
+    {
+        "small_cave_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cave_19k.exr"
+    },
+    {
+        "small_cave_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_cave_19k.hdr"
+    },
+    {
+        "autumn_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_road_19k.exr"
+    },
+    {
+        "autumn_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_road_19k.hdr"
+    },
+    {
+        "lakeside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lakeside_19k.exr"
+    },
+    {
+        "lakeside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lakeside_19k.hdr"
+    },
+    {
+        "autumn_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_park_19k.exr"
+    },
+    {
+        "autumn_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_park_19k.hdr"
+    },
+    {
+        "piazza_bologni_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_bologni_19k.exr"
+    },
+    {
+        "piazza_bologni_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_bologni_19k.hdr"
+    },
+    {
+        "kloetzle_blei_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloetzle_blei_19k.exr"
+    },
+    {
+        "kloetzle_blei_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloetzle_blei_19k.hdr"
+    },
+    {
+        "autumn_forest_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_01_19k.exr"
+    },
+    {
+        "autumn_forest_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_forest_01_19k.hdr"
+    },
+    {
+        "railway_bridges_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/railway_bridges_19k.exr"
+    },
+    {
+        "railway_bridges_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/railway_bridges_19k.hdr"
+    },
+    {
+        "small_harbor_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_harbor_02_19k.exr"
+    },
+    {
+        "small_harbor_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_harbor_02_19k.hdr"
+    },
+    {
+        "colorful_studio_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/colorful_studio_19k.exr"
+    },
+    {
+        "colorful_studio_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/colorful_studio_19k.hdr"
+    },
+    {
+        "quarry_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_03_19k.exr"
+    },
+    {
+        "quarry_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_03_19k.hdr"
+    },
+    {
+        "palermo_square_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_square_19k.exr"
+    },
+    {
+        "palermo_square_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/palermo_square_19k.hdr"
+    },
+    {
+        "evening_road_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/evening_road_01_19k.exr"
+    },
+    {
+        "evening_road_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/evening_road_01_19k.hdr"
+    },
+    {
+        "old_tree_in_city_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_tree_in_city_park_19k.exr"
+    },
+    {
+        "old_tree_in_city_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_tree_in_city_park_19k.hdr"
+    },
+    {
+        "old_bus_depot_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_bus_depot_19k.exr"
+    },
+    {
+        "old_bus_depot_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_bus_depot_19k.hdr"
+    },
+    {
+        "stone_alley_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_19k.exr"
+    },
+    {
+        "stone_alley_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_alley_19k.hdr"
+    },
+    {
+        "carpentry_shop_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/carpentry_shop_02_19k.exr"
+    },
+    {
+        "carpentry_shop_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/carpentry_shop_02_19k.hdr"
+    },
+    {
+        "quarry_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_02_19k.exr"
+    },
+    {
+        "quarry_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_02_19k.hdr"
+    },
+    {
+        "urban_street_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_03_19k.exr"
+    },
+    {
+        "urban_street_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_03_19k.hdr"
+    },
+    {
+        "epping_forest_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/epping_forest_02_19k.exr"
+    },
+    {
+        "epping_forest_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/epping_forest_02_19k.hdr"
+    },
+    {
+        "epping_forest_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/epping_forest_01_19k.exr"
+    },
+    {
+        "epping_forest_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/epping_forest_01_19k.hdr"
+    },
+    {
+        "bethnal_green_entrance_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bethnal_green_entrance_19k.exr"
+    },
+    {
+        "bethnal_green_entrance_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bethnal_green_entrance_19k.hdr"
+    },
+    {
+        "old_outdoor_theater_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_outdoor_theater_19k.exr"
+    },
+    {
+        "old_outdoor_theater_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_outdoor_theater_19k.hdr"
+    },
+    {
+        "straw_rolls_field_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/straw_rolls_field_01_19k.exr"
+    },
+    {
+        "straw_rolls_field_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/straw_rolls_field_01_19k.hdr"
+    },
+    {
+        "rooitou_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooitou_park_19k.exr"
+    },
+    {
+        "rooitou_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooitou_park_19k.hdr"
+    },
+    {
+        "altanka_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/altanka_19k.exr"
+    },
+    {
+        "altanka_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/altanka_19k.hdr"
+    },
+    {
+        "urban_street_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_02_19k.exr"
+    },
+    {
+        "urban_street_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_02_19k.hdr"
+    },
+    {
+        "urban_street_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_01_19k.exr"
+    },
+    {
+        "urban_street_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_street_01_19k.hdr"
+    },
+    {
+        "roof_garden_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/roof_garden_19k.exr"
+    },
+    {
+        "roof_garden_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/roof_garden_19k.hdr"
+    },
+    {
+        "birbeck_street_underpass_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/birbeck_street_underpass_19k.exr"
+    },
+    {
+        "birbeck_street_underpass_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/birbeck_street_underpass_19k.hdr"
+    },
+    {
+        "quarry_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_01_19k.exr"
+    },
+    {
+        "quarry_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/quarry_01_19k.hdr"
+    },
+    {
+        "outdoor_umbrellas_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/outdoor_umbrellas_19k.exr"
+    },
+    {
+        "outdoor_umbrellas_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/outdoor_umbrellas_19k.hdr"
+    },
+    {
+        "derelict_overpass_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_overpass_19k.exr"
+    },
+    {
+        "derelict_overpass_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_overpass_19k.hdr"
+    },
+    {
+        "arboretum_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/arboretum_19k.exr"
+    },
+    {
+        "arboretum_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/arboretum_19k.hdr"
+    },
+    {
+        "adams_place_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/adams_place_bridge_19k.exr"
+    },
+    {
+        "adams_place_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/adams_place_bridge_19k.hdr"
+    },
+    {
+        "lebombo_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lebombo_19k.exr"
+    },
+    {
+        "lebombo_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lebombo_19k.hdr"
+    },
+    {
+        "canary_wharf_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/canary_wharf_19k.exr"
+    },
+    {
+        "canary_wharf_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/canary_wharf_19k.hdr"
+    },
+    {
+        "mall_parking_lot_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mall_parking_lot_19k.exr"
+    },
+    {
+        "mall_parking_lot_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mall_parking_lot_19k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/industrial_pipe_&_valve_02_1k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/industrial_pipe_&_valve_02_1k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/industrial_pipe_&_valve_02_2k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/industrial_pipe_&_valve_02_2k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/industrial_pipe_&_valve_02_4k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/industrial_pipe_&_valve_02_4k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/industrial_pipe_&_valve_02_8k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/industrial_pipe_&_valve_02_8k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/industrial_pipe_&_valve_02_16k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/industrial_pipe_&_valve_02_16k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_pipe_&_valve_02_19k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_pipe_&_valve_02_19k.hdr"
+    },
+    {
+        "combination_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/combination_room_19k.exr"
+    },
+    {
+        "combination_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/combination_room_19k.hdr"
+    },
+    {
+        "pump_house_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pump_house_19k.exr"
+    },
+    {
+        "pump_house_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pump_house_19k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/industrial_pipe_&_valve_01_1k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/industrial_pipe_&_valve_01_1k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/industrial_pipe_&_valve_01_2k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/industrial_pipe_&_valve_01_2k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/industrial_pipe_&_valve_01_4k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/industrial_pipe_&_valve_01_4k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/industrial_pipe_&_valve_01_8k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/industrial_pipe_&_valve_01_8k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/industrial_pipe_&_valve_01_16k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/industrial_pipe_&_valve_01_16k.hdr"
+    },
+    {
+        "industrial_pipe_&_valve_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_pipe_&_valve_01_19k.exr"
+    },
+    {
+        "industrial_pipe_&_valve_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_pipe_&_valve_01_19k.hdr"
+    },
+    {
+        "abandoned_church_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_church_19k.exr"
+    },
+    {
+        "abandoned_church_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_church_19k.hdr"
+    },
+    {
+        "limehouse_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/limehouse_19k.exr"
+    },
+    {
+        "limehouse_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/limehouse_19k.hdr"
+    },
+    {
+        "leadenhall_market_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/leadenhall_market_19k.exr"
+    },
+    {
+        "leadenhall_market_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/leadenhall_market_19k.hdr"
+    },
+    {
+        "entrance_hall_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/entrance_hall_19k.exr"
+    },
+    {
+        "entrance_hall_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/entrance_hall_19k.hdr"
+    },
+    {
+        "indoor_pool_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/indoor_pool_19k.exr"
+    },
+    {
+        "indoor_pool_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/indoor_pool_19k.hdr"
+    },
+    {
+        "museum_of_history_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museum_of_history_19k.exr"
+    },
+    {
+        "museum_of_history_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museum_of_history_19k.hdr"
+    },
+    {
+        "wasteland_clouds_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wasteland_clouds_19k.exr"
+    },
+    {
+        "wasteland_clouds_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wasteland_clouds_19k.hdr"
+    },
+    {
+        "rural_winter_roadside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_winter_roadside_19k.exr"
+    },
+    {
+        "rural_winter_roadside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rural_winter_roadside_19k.hdr"
+    },
+    {
+        "dikhololo_sunset_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dikhololo_sunset_19k.exr"
+    },
+    {
+        "dikhololo_sunset_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dikhololo_sunset_19k.hdr"
+    },
+    {
+        "art_studio_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/art_studio_19k.exr"
+    },
+    {
+        "art_studio_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/art_studio_19k.hdr"
+    },
+    {
+        "sunset_in_the_chalk_quarry_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_in_the_chalk_quarry_19k.exr"
+    },
+    {
+        "sunset_in_the_chalk_quarry_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_in_the_chalk_quarry_19k.hdr"
+    },
+    {
+        "lakes_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lakes_19k.exr"
+    },
+    {
+        "lakes_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lakes_19k.hdr"
+    },
+    {
+        "surgery_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/surgery_19k.exr"
+    },
+    {
+        "surgery_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/surgery_19k.hdr"
+    },
+    {
+        "hospital_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hospital_room_19k.exr"
+    },
+    {
+        "hospital_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hospital_room_19k.hdr"
+    },
+    {
+        "qwantani_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/qwantani_19k.exr"
+    },
+    {
+        "qwantani_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/qwantani_19k.hdr"
+    },
+    {
+        "small_harbor_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_harbor_01_19k.exr"
+    },
+    {
+        "small_harbor_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_harbor_01_19k.hdr"
+    },
+    {
+        "machine_shop_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_03_19k.exr"
+    },
+    {
+        "machine_shop_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_03_19k.hdr"
+    },
+    {
+        "industrial_sunset_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_sunset_19k.exr"
+    },
+    {
+        "industrial_sunset_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/industrial_sunset_19k.hdr"
+    },
+    {
+        "carpentry_shop_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/carpentry_shop_01_19k.exr"
+    },
+    {
+        "carpentry_shop_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/carpentry_shop_01_19k.hdr"
+    },
+    {
+        "pylons_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pylons_19k.exr"
+    },
+    {
+        "pylons_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pylons_19k.hdr"
+    },
+    {
+        "circus_arena_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_arena_19k.exr"
+    },
+    {
+        "circus_arena_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_arena_19k.hdr"
+    },
+    {
+        "sculpture_exhibition_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sculpture_exhibition_19k.exr"
+    },
+    {
+        "sculpture_exhibition_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sculpture_exhibition_19k.hdr"
+    },
+    {
+        "greenwich_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_19k.exr"
+    },
+    {
+        "greenwich_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/greenwich_park_19k.hdr"
+    },
+    {
+        "missile_launch_facility_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_03_19k.exr"
+    },
+    {
+        "missile_launch_facility_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_03_19k.hdr"
+    },
+    {
+        "vintage_measuring_lab_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/vintage_measuring_lab_16k.exr"
+    },
+    {
+        "vintage_measuring_lab_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/vintage_measuring_lab_16k.hdr"
+    },
+    {
+        "vintage_measuring_lab_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vintage_measuring_lab_19k.exr"
+    },
+    {
+        "vintage_measuring_lab_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vintage_measuring_lab_19k.hdr"
+    },
+    {
+        "children's_hospital_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/children's_hospital_1k.exr"
+    },
+    {
+        "children's_hospital_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/children's_hospital_1k.hdr"
+    },
+    {
+        "children's_hospital_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/children's_hospital_2k.exr"
+    },
+    {
+        "children's_hospital_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/children's_hospital_2k.hdr"
+    },
+    {
+        "children's_hospital_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/children's_hospital_4k.exr"
+    },
+    {
+        "children's_hospital_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/children's_hospital_4k.hdr"
+    },
+    {
+        "children's_hospital_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/children's_hospital_8k.exr"
+    },
+    {
+        "children's_hospital_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/children's_hospital_8k.hdr"
+    },
+    {
+        "children's_hospital_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/children's_hospital_16k.exr"
+    },
+    {
+        "children's_hospital_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/children's_hospital_16k.hdr"
+    },
+    {
+        "children's_hospital_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/children's_hospital_19k.exr"
+    },
+    {
+        "children's_hospital_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/children's_hospital_19k.hdr"
+    },
+    {
+        "cinema_hall_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cinema_hall_19k.exr"
+    },
+    {
+        "cinema_hall_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cinema_hall_19k.hdr"
+    },
+    {
+        "kloofendal_48d_partly_cloudy_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloofendal_48d_partly_cloudy_19k.exr"
+    },
+    {
+        "kloofendal_48d_partly_cloudy_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kloofendal_48d_partly_cloudy_19k.hdr"
+    },
+    {
+        "snowy_park_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_park_01_19k.exr"
+    },
+    {
+        "snowy_park_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_park_01_19k.hdr"
+    },
+    {
+        "winter_river_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_river_19k.exr"
+    },
+    {
+        "winter_river_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_river_19k.hdr"
+    },
+    {
+        "tv_studio_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tv_studio_19k.exr"
+    },
+    {
+        "tv_studio_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tv_studio_19k.hdr"
+    },
+    {
+        "night_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/night_bridge_19k.exr"
+    },
+    {
+        "night_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/night_bridge_19k.hdr"
+    },
+    {
+        "theater_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/theater_02_19k.exr"
+    },
+    {
+        "theater_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/theater_02_19k.hdr"
+    },
+    {
+        "syferfontein_1d_clear_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_1d_clear_19k.exr"
+    },
+    {
+        "syferfontein_1d_clear_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_1d_clear_19k.hdr"
+    },
+    {
+        "theater_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/theater_01_19k.exr"
+    },
+    {
+        "theater_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/theater_01_19k.hdr"
+    },
+    {
+        "pedestrian_overpass_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pedestrian_overpass_19k.exr"
+    },
+    {
+        "pedestrian_overpass_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pedestrian_overpass_19k.hdr"
+    },
+    {
+        "cinema_lobby_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cinema_lobby_19k.exr"
+    },
+    {
+        "cinema_lobby_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cinema_lobby_19k.hdr"
+    },
+    {
+        "snowy_forest_path_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_forest_path_02_19k.exr"
+    },
+    {
+        "snowy_forest_path_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_forest_path_02_19k.hdr"
+    },
+    {
+        "snowy_forest_path_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_forest_path_01_19k.exr"
+    },
+    {
+        "snowy_forest_path_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/snowy_forest_path_01_19k.hdr"
+    },
+    {
+        "winter_lake_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_lake_01_19k.exr"
+    },
+    {
+        "winter_lake_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_lake_01_19k.hdr"
+    },
+    {
+        "zhengyang_gate_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/zhengyang_gate_19k.exr"
+    },
+    {
+        "zhengyang_gate_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/zhengyang_gate_19k.hdr"
+    },
+    {
+        "winter_evening_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_evening_19k.exr"
+    },
+    {
+        "winter_evening_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_evening_19k.hdr"
+    },
+    {
+        "artist_workshop_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/artist_workshop_19k.exr"
+    },
+    {
+        "artist_workshop_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/artist_workshop_19k.hdr"
+    },
+    {
+        "pool_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pool_19k.exr"
+    },
+    {
+        "pool_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pool_19k.hdr"
+    },
+    {
+        "bush_restaurant_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bush_restaurant_19k.exr"
+    },
+    {
+        "bush_restaurant_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bush_restaurant_19k.hdr"
+    },
+    {
+        "concrete_tunnel_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/concrete_tunnel_19k.exr"
+    },
+    {
+        "concrete_tunnel_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/concrete_tunnel_19k.hdr"
+    },
+    {
+        "gym_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gym_01_19k.exr"
+    },
+    {
+        "gym_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gym_01_19k.hdr"
+    },
+    {
+        "whale_skeleton_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whale_skeleton_19k.exr"
+    },
+    {
+        "whale_skeleton_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whale_skeleton_19k.hdr"
+    },
+    {
+        "hall_of_finfish_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hall_of_finfish_19k.exr"
+    },
+    {
+        "hall_of_finfish_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hall_of_finfish_19k.hdr"
+    },
+    {
+        "hall_of_mammals_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hall_of_mammals_19k.exr"
+    },
+    {
+        "hall_of_mammals_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hall_of_mammals_19k.hdr"
+    },
+    {
+        "missile_launch_facility_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_02_19k.exr"
+    },
+    {
+        "missile_launch_facility_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_02_19k.hdr"
+    },
+    {
+        "gym_entrance_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gym_entrance_19k.exr"
+    },
+    {
+        "gym_entrance_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gym_entrance_19k.hdr"
+    },
+    {
+        "approaching_storm_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/approaching_storm_19k.exr"
+    },
+    {
+        "approaching_storm_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/approaching_storm_19k.hdr"
+    },
+    {
+        "aircraft_workshop_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aircraft_workshop_01_19k.exr"
+    },
+    {
+        "aircraft_workshop_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aircraft_workshop_01_19k.hdr"
+    },
+    {
+        "autoshop_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autoshop_01_19k.exr"
+    },
+    {
+        "autoshop_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autoshop_01_19k.hdr"
+    },
+    {
+        "museum_of_ethnography_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museum_of_ethnography_19k.exr"
+    },
+    {
+        "museum_of_ethnography_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museum_of_ethnography_19k.hdr"
+    },
+    {
+        "music_hall_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/music_hall_02_19k.exr"
+    },
+    {
+        "music_hall_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/music_hall_02_19k.hdr"
+    },
+    {
+        "music_hall_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/music_hall_01_19k.exr"
+    },
+    {
+        "music_hall_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/music_hall_01_19k.hdr"
+    },
+    {
+        "missile_launch_facility_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_01_19k.exr"
+    },
+    {
+        "missile_launch_facility_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/missile_launch_facility_01_19k.hdr"
+    },
+    {
+        "derelict_highway_noon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_highway_noon_19k.exr"
+    },
+    {
+        "derelict_highway_noon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_highway_noon_19k.hdr"
+    },
+    {
+        "derelict_underpass_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_underpass_19k.exr"
+    },
+    {
+        "derelict_underpass_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/derelict_underpass_19k.hdr"
+    },
+    {
+        "aerodynamics_workshop_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aerodynamics_workshop_19k.exr"
+    },
+    {
+        "aerodynamics_workshop_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aerodynamics_workshop_19k.hdr"
+    },
+    {
+        "summer_stage_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/summer_stage_02_19k.exr"
+    },
+    {
+        "summer_stage_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/summer_stage_02_19k.hdr"
+    },
+    {
+        "summer_stage_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/summer_stage_01_19k.exr"
+    },
+    {
+        "summer_stage_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/summer_stage_01_19k.hdr"
+    },
+    {
+        "phone_shop_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/phone_shop_19k.exr"
+    },
+    {
+        "phone_shop_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/phone_shop_19k.hdr"
+    },
+    {
+        "stadium_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stadium_01_19k.exr"
+    },
+    {
+        "stadium_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stadium_01_19k.hdr"
+    },
+    {
+        "abandoned_slipway_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_slipway_19k.exr"
+    },
+    {
+        "abandoned_slipway_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_slipway_19k.hdr"
+    },
+    {
+        "boiler_room_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/boiler_room_16k.exr"
+    },
+    {
+        "boiler_room_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/boiler_room_16k.hdr"
+    },
+    {
+        "boiler_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/boiler_room_19k.exr"
+    },
+    {
+        "boiler_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/boiler_room_19k.hdr"
+    },
+    {
+        "small_hangar_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_hangar_02_19k.exr"
+    },
+    {
+        "small_hangar_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_hangar_02_19k.hdr"
+    },
+    {
+        "old_apartments_walkway_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_apartments_walkway_19k.exr"
+    },
+    {
+        "old_apartments_walkway_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_apartments_walkway_19k.hdr"
+    },
+    {
+        "abandoned_games_room_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_games_room_02_19k.exr"
+    },
+    {
+        "abandoned_games_room_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_games_room_02_19k.hdr"
+    },
+    {
+        "abandoned_hall_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hall_01_19k.exr"
+    },
+    {
+        "abandoned_hall_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_hall_01_19k.hdr"
+    },
+    {
+        "moulton_station_train_tunnel_west_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moulton_station_train_tunnel_west_19k.exr"
+    },
+    {
+        "moulton_station_train_tunnel_west_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moulton_station_train_tunnel_west_19k.hdr"
+    },
+    {
+        "whipple_creek_regional_park_04_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_regional_park_04_19k.exr"
+    },
+    {
+        "whipple_creek_regional_park_04_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_regional_park_04_19k.hdr"
+    },
+    {
+        "anniversary_lounge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/anniversary_lounge_19k.exr"
+    },
+    {
+        "anniversary_lounge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/anniversary_lounge_19k.hdr"
+    },
+    {
+        "old_depot_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_depot_19k.exr"
+    },
+    {
+        "old_depot_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/old_depot_19k.hdr"
+    },
+    {
+        "abandoned_games_room_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_games_room_01_19k.exr"
+    },
+    {
+        "abandoned_games_room_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/abandoned_games_room_01_19k.hdr"
+    },
+    {
+        "small_hangar_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_hangar_01_19k.exr"
+    },
+    {
+        "small_hangar_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_hangar_01_19k.hdr"
+    },
+    {
+        "whipple_creek_regional_park_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_regional_park_01_19k.exr"
+    },
+    {
+        "whipple_creek_regional_park_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_regional_park_01_19k.hdr"
+    },
+    {
+        "moulton_falls_train_tunnel_east_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moulton_falls_train_tunnel_east_19k.exr"
+    },
+    {
+        "moulton_falls_train_tunnel_east_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moulton_falls_train_tunnel_east_19k.hdr"
+    },
+    {
+        "machine_shop_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_02_19k.exr"
+    },
+    {
+        "machine_shop_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_02_19k.hdr"
+    },
+    {
+        "machine_shop_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_01_19k.exr"
+    },
+    {
+        "machine_shop_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/machine_shop_01_19k.hdr"
+    },
+    {
+        "portland_landing_pad_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/portland_landing_pad_19k.exr"
+    },
+    {
+        "portland_landing_pad_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/portland_landing_pad_19k.hdr"
+    },
+    {
+        "syferfontein_6d_clear_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_6d_clear_19k.exr"
+    },
+    {
+        "syferfontein_6d_clear_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_6d_clear_19k.hdr"
+    },
+    {
+        "yaris_interior_garage_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/yaris_interior_garage_19k.exr"
+    },
+    {
+        "yaris_interior_garage_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/yaris_interior_garage_19k.hdr"
+    },
+    {
+        "whipple_creek_gazebo_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_gazebo_19k.exr"
+    },
+    {
+        "whipple_creek_gazebo_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/whipple_creek_gazebo_19k.hdr"
+    },
+    {
+        "syferfontein_0d_clear_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_0d_clear_19k.exr"
+    },
+    {
+        "syferfontein_0d_clear_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_0d_clear_19k.hdr"
+    },
+    {
+        "lenong_3_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_3_19k.exr"
+    },
+    {
+        "lenong_3_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_3_19k.hdr"
+    },
+    {
+        "misty_dawn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/misty_dawn_19k.exr"
+    },
+    {
+        "misty_dawn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/misty_dawn_19k.hdr"
+    },
+    {
+        "syferfontein_18d_clear_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_18d_clear_19k.exr"
+    },
+    {
+        "syferfontein_18d_clear_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/syferfontein_18d_clear_19k.hdr"
+    },
+    {
+        "nagoya_wall_path_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/nagoya_wall_path_19k.exr"
+    },
+    {
+        "nagoya_wall_path_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/nagoya_wall_path_19k.hdr"
+    },
+    {
+        "spruit_dawn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spruit_dawn_19k.exr"
+    },
+    {
+        "spruit_dawn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spruit_dawn_19k.hdr"
+    },
+    {
+        "spruit_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spruit_sunrise_19k.exr"
+    },
+    {
+        "spruit_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/spruit_sunrise_19k.hdr"
+    },
+    {
+        "aft_lounge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aft_lounge_19k.exr"
+    },
+    {
+        "aft_lounge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aft_lounge_19k.hdr"
+    },
+    {
+        "ninomaru_teien_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ninomaru_teien_19k.exr"
+    },
+    {
+        "ninomaru_teien_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ninomaru_teien_19k.hdr"
+    },
+    {
+        "xiequ_yuan_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/xiequ_yuan_19k.exr"
+    },
+    {
+        "xiequ_yuan_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/xiequ_yuan_19k.hdr"
+    },
+    {
+        "lythwood_terrace_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_terrace_19k.exr"
+    },
+    {
+        "lythwood_terrace_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_terrace_19k.hdr"
+    },
+    {
+        "lot_02_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/lot_02_16k.exr"
+    },
+    {
+        "lot_02_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/lot_02_16k.hdr"
+    },
+    {
+        "lot_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lot_02_19k.exr"
+    },
+    {
+        "lot_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lot_02_19k.hdr"
+    },
+    {
+        "lot_01_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/lot_01_16k.exr"
+    },
+    {
+        "lot_01_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/lot_01_16k.hdr"
+    },
+    {
+        "lot_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lot_01_19k.exr"
+    },
+    {
+        "lot_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lot_01_19k.hdr"
+    },
+    {
+        "lythwood_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_room_19k.exr"
+    },
+    {
+        "lythwood_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_room_19k.hdr"
+    },
+    {
+        "royal_esplanade_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/royal_esplanade_19k.exr"
+    },
+    {
+        "royal_esplanade_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/royal_esplanade_19k.hdr"
+    },
+    {
+        "shanghai_bund_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/shanghai_bund_19k.exr"
+    },
+    {
+        "shanghai_bund_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/shanghai_bund_19k.hdr"
+    },
+    {
+        "tiber_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_2_19k.exr"
+    },
+    {
+        "tiber_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_2_19k.hdr"
+    },
+    {
+        "aristea_wreck_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aristea_wreck_19k.exr"
+    },
+    {
+        "aristea_wreck_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/aristea_wreck_19k.hdr"
+    },
+    {
+        "mutianyu_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mutianyu_19k.exr"
+    },
+    {
+        "mutianyu_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mutianyu_19k.hdr"
+    },
+    {
+        "lythwood_lounge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_lounge_19k.exr"
+    },
+    {
+        "lythwood_lounge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_lounge_19k.hdr"
+    },
+    {
+        "studio_small_07_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_07_19k.exr"
+    },
+    {
+        "studio_small_07_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_07_19k.hdr"
+    },
+    {
+        "blue_lagoon_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_lagoon_night_19k.exr"
+    },
+    {
+        "blue_lagoon_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_lagoon_night_19k.hdr"
+    },
+    {
+        "blue_lagoon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_lagoon_19k.exr"
+    },
+    {
+        "blue_lagoon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_lagoon_19k.hdr"
+    },
+    {
+        "lythwood_field_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_field_19k.exr"
+    },
+    {
+        "lythwood_field_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lythwood_field_19k.hdr"
+    },
+    {
+        "studio_small_06_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_06_19k.exr"
+    },
+    {
+        "studio_small_06_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_06_19k.hdr"
+    },
+    {
+        "studio_small_05_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_05_19k.exr"
+    },
+    {
+        "studio_small_05_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_05_19k.hdr"
+    },
+    {
+        "venice_dawn_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_dawn_2_19k.exr"
+    },
+    {
+        "venice_dawn_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_dawn_2_19k.hdr"
+    },
+    {
+        "short_tunnel_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/short_tunnel_19k.exr"
+    },
+    {
+        "short_tunnel_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/short_tunnel_19k.hdr"
+    },
+    {
+        "umhlanga_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/umhlanga_sunrise_19k.exr"
+    },
+    {
+        "umhlanga_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/umhlanga_sunrise_19k.hdr"
+    },
+    {
+        "studio_small_04_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_04_19k.exr"
+    },
+    {
+        "studio_small_04_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_04_19k.hdr"
+    },
+    {
+        "kiara_1_dawn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_1_dawn_19k.exr"
+    },
+    {
+        "kiara_1_dawn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_1_dawn_19k.hdr"
+    },
+    {
+        "moonlit_golf_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moonlit_golf_19k.exr"
+    },
+    {
+        "moonlit_golf_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moonlit_golf_19k.hdr"
+    },
+    {
+        "cape_hill_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cape_hill_19k.exr"
+    },
+    {
+        "cape_hill_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cape_hill_19k.hdr"
+    },
+    {
+        "tears_of_steel_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tears_of_steel_bridge_19k.exr"
+    },
+    {
+        "tears_of_steel_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tears_of_steel_bridge_19k.hdr"
+    },
+    {
+        "fireplace_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fireplace_19k.exr"
+    },
+    {
+        "fireplace_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fireplace_19k.hdr"
+    },
+    {
+        "neuer_zollhof_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/neuer_zollhof_19k.exr"
+    },
+    {
+        "neuer_zollhof_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/neuer_zollhof_19k.hdr"
+    },
+    {
+        "simon's_town_rocks_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/simon's_town_rocks_1k.exr"
+    },
+    {
+        "simon's_town_rocks_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/simon's_town_rocks_1k.hdr"
+    },
+    {
+        "simon's_town_rocks_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/simon's_town_rocks_2k.exr"
+    },
+    {
+        "simon's_town_rocks_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/simon's_town_rocks_2k.hdr"
+    },
+    {
+        "simon's_town_rocks_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/simon's_town_rocks_4k.exr"
+    },
+    {
+        "simon's_town_rocks_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/simon's_town_rocks_4k.hdr"
+    },
+    {
+        "simon's_town_rocks_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/simon's_town_rocks_8k.exr"
+    },
+    {
+        "simon's_town_rocks_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/simon's_town_rocks_8k.hdr"
+    },
+    {
+        "simon's_town_rocks_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/simon's_town_rocks_16k.exr"
+    },
+    {
+        "simon's_town_rocks_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/simon's_town_rocks_16k.hdr"
+    },
+    {
+        "simon's_town_rocks_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/simon's_town_rocks_19k.exr"
+    },
+    {
+        "simon's_town_rocks_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/simon's_town_rocks_19k.hdr"
+    },
+    {
+        "schadowplatz_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/schadowplatz_19k.exr"
+    },
+    {
+        "schadowplatz_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/schadowplatz_19k.hdr"
+    },
+    {
+        "potsdamer_platz_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/potsdamer_platz_19k.exr"
+    },
+    {
+        "potsdamer_platz_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/potsdamer_platz_19k.hdr"
+    },
+    {
+        "wooden_lounge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wooden_lounge_19k.exr"
+    },
+    {
+        "wooden_lounge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wooden_lounge_19k.hdr"
+    },
+    {
+        "veranda_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/veranda_19k.exr"
+    },
+    {
+        "veranda_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/veranda_19k.hdr"
+    },
+    {
+        "furry_clouds_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/furry_clouds_19k.exr"
+    },
+    {
+        "furry_clouds_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/furry_clouds_19k.hdr"
+    },
+    {
+        "blue_grotto_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_grotto_19k.exr"
+    },
+    {
+        "blue_grotto_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blue_grotto_19k.hdr"
+    },
+    {
+        "kiara_6_afternoon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_6_afternoon_19k.exr"
+    },
+    {
+        "kiara_6_afternoon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_6_afternoon_19k.hdr"
+    },
+    {
+        "mealie_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mealie_road_19k.exr"
+    },
+    {
+        "mealie_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mealie_road_19k.hdr"
+    },
+    {
+        "skylit_garage_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skylit_garage_19k.exr"
+    },
+    {
+        "skylit_garage_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skylit_garage_19k.hdr"
+    },
+    {
+        "blouberg_sunrise_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blouberg_sunrise_2_19k.exr"
+    },
+    {
+        "blouberg_sunrise_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blouberg_sunrise_2_19k.hdr"
+    },
+    {
+        "shady_patch_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/shady_patch_19k.exr"
+    },
+    {
+        "shady_patch_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/shady_patch_19k.hdr"
+    },
+    {
+        "white_cliff_top_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/white_cliff_top_19k.exr"
+    },
+    {
+        "white_cliff_top_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/white_cliff_top_19k.hdr"
+    },
+    {
+        "mossy_forest_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mossy_forest_19k.exr"
+    },
+    {
+        "mossy_forest_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mossy_forest_19k.hdr"
+    },
+    {
+        "mud_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mud_road_19k.exr"
+    },
+    {
+        "mud_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mud_road_19k.hdr"
+    },
+    {
+        "kiara_5_noon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_5_noon_19k.exr"
+    },
+    {
+        "kiara_5_noon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_5_noon_19k.hdr"
+    },
+    {
+        "street_lamp_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/street_lamp_19k.exr"
+    },
+    {
+        "street_lamp_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/street_lamp_19k.hdr"
+    },
+    {
+        "rocky_ridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rocky_ridge_19k.exr"
+    },
+    {
+        "rocky_ridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rocky_ridge_19k.hdr"
+    },
+    {
+        "mpumalanga_veld_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mpumalanga_veld_19k.exr"
+    },
+    {
+        "mpumalanga_veld_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mpumalanga_veld_19k.hdr"
+    },
+    {
+        "ostrich_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ostrich_road_19k.exr"
+    },
+    {
+        "ostrich_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ostrich_road_19k.hdr"
+    },
+    {
+        "courtyard_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/courtyard_night_19k.exr"
+    },
+    {
+        "courtyard_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/courtyard_night_19k.hdr"
+    },
+    {
+        "dusseldorf_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dusseldorf_bridge_19k.exr"
+    },
+    {
+        "dusseldorf_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dusseldorf_bridge_19k.hdr"
+    },
+    {
+        "bell_park_dawn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bell_park_dawn_19k.exr"
+    },
+    {
+        "bell_park_dawn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bell_park_dawn_19k.hdr"
+    },
+    {
+        "zwinger_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/zwinger_night_19k.exr"
+    },
+    {
+        "zwinger_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/zwinger_night_19k.hdr"
+    },
+    {
+        "blouberg_sunrise_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blouberg_sunrise_1_19k.exr"
+    },
+    {
+        "blouberg_sunrise_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blouberg_sunrise_1_19k.hdr"
+    },
+    {
+        "beach_parking_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/beach_parking_19k.exr"
+    },
+    {
+        "beach_parking_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/beach_parking_19k.hdr"
+    },
+    {
+        "secluded_beach_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/secluded_beach_19k.exr"
+    },
+    {
+        "secluded_beach_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/secluded_beach_19k.hdr"
+    },
+    {
+        "bergen_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bergen_19k.exr"
+    },
+    {
+        "bergen_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bergen_19k.hdr"
+    },
+    {
+        "winter_sky_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_sky_19k.exr"
+    },
+    {
+        "winter_sky_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/winter_sky_19k.hdr"
+    },
+    {
+        "small_empty_house_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_empty_house_19k.exr"
+    },
+    {
+        "small_empty_house_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/small_empty_house_19k.hdr"
+    },
+    {
+        "gray_pier_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gray_pier_19k.exr"
+    },
+    {
+        "gray_pier_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/gray_pier_19k.hdr"
+    },
+    {
+        "pillars_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pillars_19k.exr"
+    },
+    {
+        "pillars_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pillars_19k.hdr"
+    },
+    {
+        "urban_courtyard_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_courtyard_19k.exr"
+    },
+    {
+        "urban_courtyard_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/urban_courtyard_19k.hdr"
+    },
+    {
+        "blinds_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blinds_19k.exr"
+    },
+    {
+        "blinds_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blinds_19k.hdr"
+    },
+    {
+        "kiara_7_late-afternoon_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_7_late-afternoon_19k.exr"
+    },
+    {
+        "kiara_7_late-afternoon_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_7_late-afternoon_19k.hdr"
+    },
+    {
+        "signal_hill_dawn_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/signal_hill_dawn_19k.exr"
+    },
+    {
+        "signal_hill_dawn_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/signal_hill_dawn_19k.hdr"
+    },
+    {
+        "simon's_town_harbour_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/simon's_town_harbour_1k.exr"
+    },
+    {
+        "simon's_town_harbour_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/simon's_town_harbour_1k.hdr"
+    },
+    {
+        "simon's_town_harbour_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/simon's_town_harbour_2k.exr"
+    },
+    {
+        "simon's_town_harbour_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/simon's_town_harbour_2k.hdr"
+    },
+    {
+        "simon's_town_harbour_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/simon's_town_harbour_4k.exr"
+    },
+    {
+        "simon's_town_harbour_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/simon's_town_harbour_4k.hdr"
+    },
+    {
+        "simon's_town_harbour_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/simon's_town_harbour_8k.exr"
+    },
+    {
+        "simon's_town_harbour_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/simon's_town_harbour_8k.hdr"
+    },
+    {
+        "simon's_town_harbour_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/simon's_town_harbour_16k.exr"
+    },
+    {
+        "simon's_town_harbour_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/simon's_town_harbour_16k.hdr"
+    },
+    {
+        "simon's_town_harbour_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/simon's_town_harbour_19k.exr"
+    },
+    {
+        "simon's_town_harbour_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/simon's_town_harbour_19k.hdr"
+    },
+    {
+        "harties_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/harties_19k.exr"
+    },
+    {
+        "harties_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/harties_19k.hdr"
+    },
+    {
+        "sisulu_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sisulu_19k.exr"
+    },
+    {
+        "sisulu_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sisulu_19k.hdr"
+    },
+    {
+        "garage_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/garage_19k.exr"
+    },
+    {
+        "garage_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/garage_19k.hdr"
+    },
+    {
+        "chapman's_drive_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/chapman's_drive_1k.exr"
+    },
+    {
+        "chapman's_drive_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/chapman's_drive_1k.hdr"
+    },
+    {
+        "chapman's_drive_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/chapman's_drive_2k.exr"
+    },
+    {
+        "chapman's_drive_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/chapman's_drive_2k.hdr"
+    },
+    {
+        "chapman's_drive_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/chapman's_drive_4k.exr"
+    },
+    {
+        "chapman's_drive_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/chapman's_drive_4k.hdr"
+    },
+    {
+        "chapman's_drive_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/chapman's_drive_8k.exr"
+    },
+    {
+        "chapman's_drive_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/chapman's_drive_8k.hdr"
+    },
+    {
+        "chapman's_drive_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/chapman's_drive_16k.exr"
+    },
+    {
+        "chapman's_drive_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/chapman's_drive_16k.hdr"
+    },
+    {
+        "chapman's_drive_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/chapman's_drive_19k.exr"
+    },
+    {
+        "chapman's_drive_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/chapman's_drive_19k.hdr"
+    },
+    {
+        "hiker's_cave_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/hiker's_cave_1k.exr"
+    },
+    {
+        "hiker's_cave_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/hiker's_cave_1k.hdr"
+    },
+    {
+        "hiker's_cave_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/hiker's_cave_2k.exr"
+    },
+    {
+        "hiker's_cave_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/hiker's_cave_2k.hdr"
+    },
+    {
+        "hiker's_cave_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/hiker's_cave_4k.exr"
+    },
+    {
+        "hiker's_cave_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/hiker's_cave_4k.hdr"
+    },
+    {
+        "hiker's_cave_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/hiker's_cave_8k.exr"
+    },
+    {
+        "hiker's_cave_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/hiker's_cave_8k.hdr"
+    },
+    {
+        "hiker's_cave_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/hiker's_cave_16k.exr"
+    },
+    {
+        "hiker's_cave_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/hiker's_cave_16k.hdr"
+    },
+    {
+        "hiker's_cave_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hiker's_cave_19k.exr"
+    },
+    {
+        "hiker's_cave_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hiker's_cave_19k.hdr"
+    },
+    {
+        "river_rocks_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_rocks_19k.exr"
+    },
+    {
+        "river_rocks_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_rocks_19k.hdr"
+    },
+    {
+        "emmarentia_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/emmarentia_19k.exr"
+    },
+    {
+        "emmarentia_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/emmarentia_19k.hdr"
+    },
+    {
+        "binnenalster_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/binnenalster_19k.exr"
+    },
+    {
+        "binnenalster_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/binnenalster_19k.hdr"
+    },
+    {
+        "storeroom_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/storeroom_19k.exr"
+    },
+    {
+        "storeroom_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/storeroom_19k.hdr"
+    },
+    {
+        "residential_garden_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/residential_garden_19k.exr"
+    },
+    {
+        "residential_garden_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/residential_garden_19k.hdr"
+    },
+    {
+        "hamburg_canal_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hamburg_canal_19k.exr"
+    },
+    {
+        "hamburg_canal_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hamburg_canal_19k.hdr"
+    },
+    {
+        "under_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/under_bridge_19k.exr"
+    },
+    {
+        "under_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/under_bridge_19k.hdr"
+    },
+    {
+        "courtyard_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/courtyard_19k.exr"
+    },
+    {
+        "courtyard_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/courtyard_19k.hdr"
+    },
+    {
+        "roofless_ruins_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/roofless_ruins_19k.exr"
+    },
+    {
+        "roofless_ruins_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/roofless_ruins_19k.hdr"
+    },
+    {
+        "between_bridges_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/between_bridges_19k.exr"
+    },
+    {
+        "between_bridges_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/between_bridges_19k.hdr"
+    },
+    {
+        "sterkspruit_falls_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sterkspruit_falls_19k.exr"
+    },
+    {
+        "sterkspruit_falls_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sterkspruit_falls_19k.hdr"
+    },
+    {
+        "sabie_tent_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sabie_tent_19k.exr"
+    },
+    {
+        "sabie_tent_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sabie_tent_19k.hdr"
+    },
+    {
+        "studio_small_03_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_03_19k.exr"
+    },
+    {
+        "studio_small_03_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_03_19k.hdr"
+    },
+    {
+        "venice_dawn_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_dawn_1_19k.exr"
+    },
+    {
+        "venice_dawn_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_dawn_1_19k.hdr"
+    },
+    {
+        "studio_small_02_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_02_19k.exr"
+    },
+    {
+        "studio_small_02_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_02_19k.hdr"
+    },
+    {
+        "studio_small_01_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_01_19k.exr"
+    },
+    {
+        "studio_small_01_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/studio_small_01_19k.hdr"
+    },
+    {
+        "san_giuseppe_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/san_giuseppe_bridge_19k.exr"
+    },
+    {
+        "san_giuseppe_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/san_giuseppe_bridge_19k.hdr"
+    },
+    {
+        "viale_giuseppe_garibaldi_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/viale_giuseppe_garibaldi_19k.exr"
+    },
+    {
+        "viale_giuseppe_garibaldi_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/viale_giuseppe_garibaldi_19k.hdr"
+    },
+    {
+        "reading_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reading_room_19k.exr"
+    },
+    {
+        "reading_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reading_room_19k.hdr"
+    },
+    {
+        "venice_sunset_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_sunset_19k.exr"
+    },
+    {
+        "venice_sunset_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_sunset_19k.hdr"
+    },
+    {
+        "venice_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_sunrise_19k.exr"
+    },
+    {
+        "venice_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venice_sunrise_19k.hdr"
+    },
+    {
+        "venetian_crossroads_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venetian_crossroads_19k.exr"
+    },
+    {
+        "venetian_crossroads_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/venetian_crossroads_19k.hdr"
+    },
+    {
+        "vignaioli_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vignaioli_night_19k.exr"
+    },
+    {
+        "vignaioli_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vignaioli_night_19k.hdr"
+    },
+    {
+        "red_wall_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_wall_19k.exr"
+    },
+    {
+        "red_wall_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_wall_19k.hdr"
+    },
+    {
+        "mosaic_tunnel_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mosaic_tunnel_19k.exr"
+    },
+    {
+        "mosaic_tunnel_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/mosaic_tunnel_19k.hdr"
+    },
+    {
+        "vignaioli_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vignaioli_19k.exr"
+    },
+    {
+        "vignaioli_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vignaioli_19k.hdr"
+    },
+    {
+        "piazza_martin_lutero_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_martin_lutero_19k.exr"
+    },
+    {
+        "piazza_martin_lutero_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_martin_lutero_19k.hdr"
+    },
+    {
+        "cloudy_cliffside_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloudy_cliffside_road_19k.exr"
+    },
+    {
+        "cloudy_cliffside_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloudy_cliffside_road_19k.hdr"
+    },
+    {
+        "circus_maximus_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_maximus_2_19k.exr"
+    },
+    {
+        "circus_maximus_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_maximus_2_19k.hdr"
+    },
+    {
+        "tiber_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_1_19k.exr"
+    },
+    {
+        "tiber_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_1_19k.hdr"
+    },
+    {
+        "colosseum_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/colosseum_19k.exr"
+    },
+    {
+        "colosseum_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/colosseum_19k.hdr"
+    },
+    {
+        "belvedere_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/belvedere_19k.exr"
+    },
+    {
+        "belvedere_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/belvedere_19k.hdr"
+    },
+    {
+        "stone_pines_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_pines_19k.exr"
+    },
+    {
+        "stone_pines_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stone_pines_19k.hdr"
+    },
+    {
+        "vatican_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vatican_road_19k.exr"
+    },
+    {
+        "vatican_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vatican_road_19k.hdr"
+    },
+    {
+        "tiber_island_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_island_19k.exr"
+    },
+    {
+        "tiber_island_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiber_island_19k.hdr"
+    },
+    {
+        "teufelsberg_roof_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_roof_19k.exr"
+    },
+    {
+        "teufelsberg_roof_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_roof_19k.hdr"
+    },
+    {
+        "circus_maximus_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_maximus_1_19k.exr"
+    },
+    {
+        "circus_maximus_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/circus_maximus_1_19k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/satara_night_(no_lamps)_1k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/satara_night_(no_lamps)_1k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/satara_night_(no_lamps)_2k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/satara_night_(no_lamps)_2k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/satara_night_(no_lamps)_4k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/satara_night_(no_lamps)_4k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/satara_night_(no_lamps)_8k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/satara_night_(no_lamps)_8k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/satara_night_(no_lamps)_16k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/satara_night_(no_lamps)_16k.hdr"
+    },
+    {
+        "satara_night_(no_lamps)_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/satara_night_(no_lamps)_19k.exr"
+    },
+    {
+        "satara_night_(no_lamps)_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/satara_night_(no_lamps)_19k.hdr"
+    },
+    {
+        "satara_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/satara_night_19k.exr"
+    },
+    {
+        "satara_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/satara_night_19k.hdr"
+    },
+    {
+        "river_walk_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_walk_2_19k.exr"
+    },
+    {
+        "river_walk_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_walk_2_19k.hdr"
+    },
+    {
+        "piazza_san_marco_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_san_marco_19k.exr"
+    },
+    {
+        "piazza_san_marco_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/piazza_san_marco_19k.hdr"
+    },
+    {
+        "teufelsberg_lookout_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_lookout_19k.exr"
+    },
+    {
+        "teufelsberg_lookout_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_lookout_19k.hdr"
+    },
+    {
+        "noon_grass_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/noon_grass_19k.exr"
+    },
+    {
+        "noon_grass_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/noon_grass_19k.hdr"
+    },
+    {
+        "green_point_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/green_point_park_19k.exr"
+    },
+    {
+        "green_point_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/green_point_park_19k.hdr"
+    },
+    {
+        "cayley_interior_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cayley_interior_19k.exr"
+    },
+    {
+        "cayley_interior_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cayley_interior_19k.hdr"
+    },
+    {
+        "cloud_layers_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloud_layers_19k.exr"
+    },
+    {
+        "cloud_layers_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloud_layers_19k.hdr"
+    },
+    {
+        "table_mountain_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/table_mountain_1_19k.exr"
+    },
+    {
+        "table_mountain_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/table_mountain_1_19k.hdr"
+    },
+    {
+        "pink_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pink_sunrise_19k.exr"
+    },
+    {
+        "pink_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pink_sunrise_19k.hdr"
+    },
+    {
+        "symmetrical_garden_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/symmetrical_garden_19k.exr"
+    },
+    {
+        "symmetrical_garden_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/symmetrical_garden_19k.hdr"
+    },
+    {
+        "yellow_field_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/yellow_field_19k.exr"
+    },
+    {
+        "yellow_field_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/yellow_field_19k.hdr"
+    },
+    {
+        "champagne_castle_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/champagne_castle_1_19k.exr"
+    },
+    {
+        "champagne_castle_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/champagne_castle_1_19k.hdr"
+    },
+    {
+        "kiara_8_sunset_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_8_sunset_19k.exr"
+    },
+    {
+        "kiara_8_sunset_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_8_sunset_19k.hdr"
+    },
+    {
+        "learner_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/learner_park_19k.exr"
+    },
+    {
+        "learner_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/learner_park_19k.hdr"
+    },
+    {
+        "table_mountain_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/table_mountain_2_19k.exr"
+    },
+    {
+        "table_mountain_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/table_mountain_2_19k.hdr"
+    },
+    {
+        "fish_hoek_beach_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fish_hoek_beach_19k.exr"
+    },
+    {
+        "fish_hoek_beach_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fish_hoek_beach_19k.hdr"
+    },
+    {
+        "modern_buildings_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/modern_buildings_night_19k.exr"
+    },
+    {
+        "modern_buildings_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/modern_buildings_night_19k.hdr"
+    },
+    {
+        "rathaus_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rathaus_19k.exr"
+    },
+    {
+        "rathaus_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rathaus_19k.hdr"
+    },
+    {
+        "red_hill_curve_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_hill_curve_19k.exr"
+    },
+    {
+        "red_hill_curve_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_hill_curve_19k.hdr"
+    },
+    {
+        "bathroom_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bathroom_19k.exr"
+    },
+    {
+        "bathroom_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bathroom_19k.hdr"
+    },
+    {
+        "kiara_9_dusk_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_9_dusk_19k.exr"
+    },
+    {
+        "kiara_9_dusk_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_9_dusk_19k.hdr"
+    },
+    {
+        "kiara_interior_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_interior_19k.exr"
+    },
+    {
+        "kiara_interior_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_interior_19k.hdr"
+    },
+    {
+        "reichstag_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reichstag_1_19k.exr"
+    },
+    {
+        "reichstag_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/reichstag_1_19k.hdr"
+    },
+    {
+        "parking_garage_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/parking_garage_19k.exr"
+    },
+    {
+        "parking_garage_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/parking_garage_19k.hdr"
+    },
+    {
+        "dresden_square_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_square_19k.exr"
+    },
+    {
+        "dresden_square_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_square_19k.hdr"
+    },
+    {
+        "glass_passage_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/glass_passage_19k.exr"
+    },
+    {
+        "glass_passage_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/glass_passage_19k.hdr"
+    },
+    {
+        "kiara_4_mid-morning_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_4_mid-morning_19k.exr"
+    },
+    {
+        "kiara_4_mid-morning_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_4_mid-morning_19k.hdr"
+    },
+    {
+        "konigsallee_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/konigsallee_19k.exr"
+    },
+    {
+        "konigsallee_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/konigsallee_19k.hdr"
+    },
+    {
+        "park_bench_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/park_bench_19k.exr"
+    },
+    {
+        "park_bench_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/park_bench_19k.hdr"
+    },
+    {
+        "hilltop_construction_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hilltop_construction_19k.exr"
+    },
+    {
+        "hilltop_construction_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hilltop_construction_19k.hdr"
+    },
+    {
+        "kiara_3_morning_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_3_morning_19k.exr"
+    },
+    {
+        "kiara_3_morning_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_3_morning_19k.hdr"
+    },
+    {
+        "monk's_forest_1k.exr_0": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/monk's_forest_1k.exr"
+    },
+    {
+        "monk's_forest_1k.hdr_6": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/1k/monk's_forest_1k.hdr"
+    },
+    {
+        "monk's_forest_2k.exr_1": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/monk's_forest_2k.exr"
+    },
+    {
+        "monk's_forest_2k.hdr_7": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/2k/monk's_forest_2k.hdr"
+    },
+    {
+        "monk's_forest_4k.exr_2": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/monk's_forest_4k.exr"
+    },
+    {
+        "monk's_forest_4k.hdr_8": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/4k/monk's_forest_4k.hdr"
+    },
+    {
+        "monk's_forest_8k.exr_3": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/monk's_forest_8k.exr"
+    },
+    {
+        "monk's_forest_8k.hdr_9": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/8k/monk's_forest_8k.hdr"
+    },
+    {
+        "monk's_forest_16k.exr_4": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/monk's_forest_16k.exr"
+    },
+    {
+        "monk's_forest_16k.hdr_10": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/monk's_forest_16k.hdr"
+    },
+    {
+        "monk's_forest_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/monk's_forest_19k.exr"
+    },
+    {
+        "monk's_forest_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/monk's_forest_19k.hdr"
+    },
+    {
+        "en_suite_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/en_suite_19k.exr"
+    },
+    {
+        "en_suite_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/en_suite_19k.hdr"
+    },
+    {
+        "rooftop_day_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooftop_day_19k.exr"
+    },
+    {
+        "rooftop_day_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooftop_day_19k.hdr"
+    },
+    {
+        "rhodes_memorial_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rhodes_memorial_19k.exr"
+    },
+    {
+        "rhodes_memorial_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rhodes_memorial_19k.hdr"
+    },
+    {
+        "pond_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pond_19k.exr"
+    },
+    {
+        "pond_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pond_19k.hdr"
+    },
+    {
+        "floral_tent_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/floral_tent_19k.exr"
+    },
+    {
+        "floral_tent_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/floral_tent_19k.hdr"
+    },
+    {
+        "tucker_wreck_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tucker_wreck_19k.exr"
+    },
+    {
+        "tucker_wreck_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tucker_wreck_19k.hdr"
+    },
+    {
+        "veld_fire_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/veld_fire_19k.exr"
+    },
+    {
+        "veld_fire_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/veld_fire_19k.hdr"
+    },
+    {
+        "skate_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skate_park_19k.exr"
+    },
+    {
+        "skate_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skate_park_19k.hdr"
+    },
+    {
+        "northcliff_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/northcliff_19k.exr"
+    },
+    {
+        "northcliff_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/northcliff_19k.hdr"
+    },
+    {
+        "nkuhlu_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/nkuhlu_19k.exr"
+    },
+    {
+        "nkuhlu_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/nkuhlu_19k.hdr"
+    },
+    {
+        "skukuza_golf_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skukuza_golf_19k.exr"
+    },
+    {
+        "skukuza_golf_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/skukuza_golf_19k.hdr"
+    },
+    {
+        "tiergarten_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiergarten_19k.exr"
+    },
+    {
+        "tiergarten_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/tiergarten_19k.hdr"
+    },
+    {
+        "teufelsberg_ground_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_ground_2_19k.exr"
+    },
+    {
+        "teufelsberg_ground_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_ground_2_19k.hdr"
+    },
+    {
+        "versveldpas_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/versveldpas_19k.exr"
+    },
+    {
+        "versveldpas_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/versveldpas_19k.hdr"
+    },
+    {
+        "sunset_fairway_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_fairway_19k.exr"
+    },
+    {
+        "sunset_fairway_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunset_fairway_19k.hdr"
+    },
+    {
+        "ahornsteig_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ahornsteig_19k.exr"
+    },
+    {
+        "ahornsteig_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/ahornsteig_19k.hdr"
+    },
+    {
+        "teufelsberg_ground_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_ground_1_19k.exr"
+    },
+    {
+        "teufelsberg_ground_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_ground_1_19k.hdr"
+    },
+    {
+        "teufelsberg_inner_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_inner_19k.exr"
+    },
+    {
+        "teufelsberg_inner_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/teufelsberg_inner_19k.hdr"
+    },
+    {
+        "river_walk_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_walk_1_19k.exr"
+    },
+    {
+        "river_walk_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/river_walk_1_19k.hdr"
+    },
+    {
+        "autumn_ground_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_ground_19k.exr"
+    },
+    {
+        "autumn_ground_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_ground_19k.hdr"
+    },
+    {
+        "subway_entrance_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/subway_entrance_19k.exr"
+    },
+    {
+        "subway_entrance_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/subway_entrance_19k.hdr"
+    },
+    {
+        "delta_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/delta_2_19k.exr"
+    },
+    {
+        "delta_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/delta_2_19k.hdr"
+    },
+    {
+        "the_sky_is_on_fire_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/the_sky_is_on_fire_19k.exr"
+    },
+    {
+        "the_sky_is_on_fire_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/the_sky_is_on_fire_19k.hdr"
+    },
+    {
+        "hansaplatz_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hansaplatz_19k.exr"
+    },
+    {
+        "hansaplatz_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hansaplatz_19k.hdr"
+    },
+    {
+        "paul_lobe_haus_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/paul_lobe_haus_19k.exr"
+    },
+    {
+        "paul_lobe_haus_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/paul_lobe_haus_19k.hdr"
+    },
+    {
+        "rooftop_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooftop_night_19k.exr"
+    },
+    {
+        "rooftop_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rooftop_night_19k.hdr"
+    },
+    {
+        "bell_park_pier_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bell_park_pier_19k.exr"
+    },
+    {
+        "bell_park_pier_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/bell_park_pier_19k.hdr"
+    },
+    {
+        "modern_buildings_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/modern_buildings_19k.exr"
+    },
+    {
+        "modern_buildings_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/modern_buildings_19k.hdr"
+    },
+    {
+        "signal_hill_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/signal_hill_sunrise_19k.exr"
+    },
+    {
+        "signal_hill_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/signal_hill_sunrise_19k.hdr"
+    },
+    {
+        "kiara_2_sunrise_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_2_sunrise_19k.exr"
+    },
+    {
+        "kiara_2_sunrise_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/kiara_2_sunrise_19k.hdr"
+    },
+    {
+        "lenong_1_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_1_19k.exr"
+    },
+    {
+        "lenong_1_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_1_19k.hdr"
+    },
+    {
+        "noga_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/noga_19k.exr"
+    },
+    {
+        "noga_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/noga_19k.hdr"
+    },
+    {
+        "lapa_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lapa_19k.exr"
+    },
+    {
+        "lapa_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lapa_19k.hdr"
+    },
+    {
+        "cayley_lookout_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cayley_lookout_19k.exr"
+    },
+    {
+        "cayley_lookout_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cayley_lookout_19k.hdr"
+    },
+    {
+        "cliffside_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cliffside_19k.exr"
+    },
+    {
+        "cliffside_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cliffside_19k.hdr"
+    },
+    {
+        "red_hill_straight_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_hill_straight_19k.exr"
+    },
+    {
+        "red_hill_straight_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/red_hill_straight_19k.hdr"
+    },
+    {
+        "cabin_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cabin_19k.exr"
+    },
+    {
+        "cabin_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cabin_19k.hdr"
+    },
+    {
+        "stream_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stream_19k.exr"
+    },
+    {
+        "stream_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/stream_19k.hdr"
+    },
+    {
+        "de_balie_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/de_balie_19k.exr"
+    },
+    {
+        "de_balie_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/de_balie_19k.hdr"
+    },
+    {
+        "lookout_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lookout_19k.exr"
+    },
+    {
+        "lookout_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lookout_19k.hdr"
+    },
+    {
+        "vulture_hide_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vulture_hide_19k.exr"
+    },
+    {
+        "vulture_hide_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/vulture_hide_19k.hdr"
+    },
+    {
+        "konzerthaus_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/konzerthaus_19k.exr"
+    },
+    {
+        "konzerthaus_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/konzerthaus_19k.hdr"
+    },
+    {
+        "museumplein_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museumplein_19k.exr"
+    },
+    {
+        "museumplein_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/museumplein_19k.hdr"
+    },
+    {
+        "moonless_golf_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moonless_golf_19k.exr"
+    },
+    {
+        "moonless_golf_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/moonless_golf_19k.hdr"
+    },
+    {
+        "autumn_hockey_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_hockey_19k.exr"
+    },
+    {
+        "autumn_hockey_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_hockey_19k.hdr"
+    },
+    {
+        "graffiti_shelter_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/graffiti_shelter_19k.exr"
+    },
+    {
+        "graffiti_shelter_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/graffiti_shelter_19k.hdr"
+    },
+    {
+        "flower_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/flower_road_19k.exr"
+    },
+    {
+        "flower_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/flower_road_19k.hdr"
+    },
+    {
+        "eilenriede_park_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/eilenriede_park_19k.exr"
+    },
+    {
+        "eilenriede_park_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/eilenriede_park_19k.hdr"
+    },
+    {
+        "blender_institute_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blender_institute_19k.exr"
+    },
+    {
+        "blender_institute_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/blender_institute_19k.hdr"
+    },
+    {
+        "waterbuck_trail_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/waterbuck_trail_19k.exr"
+    },
+    {
+        "waterbuck_trail_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/waterbuck_trail_19k.hdr"
+    },
+    {
+        "goegap_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/goegap_19k.exr"
+    },
+    {
+        "goegap_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/goegap_19k.hdr"
+    },
+    {
+        "cloudy_vondelpark_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloudy_vondelpark_19k.exr"
+    },
+    {
+        "cloudy_vondelpark_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cloudy_vondelpark_19k.hdr"
+    },
+    {
+        "preller_drive_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/preller_drive_19k.exr"
+    },
+    {
+        "preller_drive_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/preller_drive_19k.hdr"
+    },
+    {
+        "sunny_vondelpark_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunny_vondelpark_19k.exr"
+    },
+    {
+        "sunny_vondelpark_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/sunny_vondelpark_19k.hdr"
+    },
+    {
+        "pond_bridge_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pond_bridge_night_19k.exr"
+    },
+    {
+        "pond_bridge_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/pond_bridge_night_19k.hdr"
+    },
+    {
+        "misty_pines_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/misty_pines_19k.exr"
+    },
+    {
+        "misty_pines_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/misty_pines_19k.hdr"
+    },
+    {
+        "hotel_room_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hotel_room_19k.exr"
+    },
+    {
+        "hotel_room_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hotel_room_19k.hdr"
+    },
+    {
+        "rustig_koppie_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rustig_koppie_19k.exr"
+    },
+    {
+        "rustig_koppie_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/rustig_koppie_19k.hdr"
+    },
+    {
+        "lenong_2_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_2_19k.exr"
+    },
+    {
+        "lenong_2_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/lenong_2_19k.hdr"
+    },
+    {
+        "georgentor_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/georgentor_19k.exr"
+    },
+    {
+        "georgentor_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/georgentor_19k.hdr"
+    },
+    {
+        "dresden_station_night_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_station_night_19k.exr"
+    },
+    {
+        "dresden_station_night_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_station_night_19k.hdr"
+    },
+    {
+        "dry_field_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dry_field_19k.exr"
+    },
+    {
+        "dry_field_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dry_field_19k.hdr"
+    },
+    {
+        "hamburg_hbf_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hamburg_hbf_19k.exr"
+    },
+    {
+        "hamburg_hbf_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/hamburg_hbf_19k.hdr"
+    },
+    {
+        "cave_wall_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cave_wall_19k.exr"
+    },
+    {
+        "cave_wall_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cave_wall_19k.hdr"
+    },
+    {
+        "cedar_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cedar_bridge_19k.exr"
+    },
+    {
+        "cedar_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/cedar_bridge_19k.hdr"
+    },
+    {
+        "crystal_falls_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/crystal_falls_19k.exr"
+    },
+    {
+        "crystal_falls_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/crystal_falls_19k.hdr"
+    },
+    {
+        "dresden_moat_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_moat_19k.exr"
+    },
+    {
+        "dresden_moat_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dresden_moat_19k.hdr"
+    },
+    {
+        "balcony_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/balcony_19k.exr"
+    },
+    {
+        "balcony_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/balcony_19k.hdr"
+    },
+    {
+        "eilenriede_labyrinth_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/eilenriede_labyrinth_19k.exr"
+    },
+    {
+        "eilenriede_labyrinth_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/eilenriede_labyrinth_19k.hdr"
+    },
+    {
+        "autumn_crossing_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_crossing_19k.exr"
+    },
+    {
+        "autumn_crossing_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/autumn_crossing_19k.hdr"
+    },
+    {
+        "woods_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/woods_19k.exr"
+    },
+    {
+        "woods_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/woods_19k.hdr"
+    },
+    {
+        "fish_eagle_hill_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fish_eagle_hill_19k.exr"
+    },
+    {
+        "fish_eagle_hill_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/fish_eagle_hill_19k.hdr"
+    },
+    {
+        "dam_road_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dam_road_19k.exr"
+    },
+    {
+        "dam_road_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/dam_road_19k.hdr"
+    },
+    {
+        "wobbly_bridge_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wobbly_bridge_19k.exr"
+    },
+    {
+        "wobbly_bridge_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/wobbly_bridge_19k.hdr"
+    },
+    {
+        "partial_eclipse_19k.exr_5": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/partial_eclipse_19k.exr"
+    },
+    {
+        "partial_eclipse_19k.hdr_11": "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/partial_eclipse_19k.hdr"
+    }
+]

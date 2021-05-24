@@ -73,18 +73,18 @@ def create_paths(child_name):
 def get_download_links(child_name):
     download_links = []
 
-    download_links = ["https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("1k", child_name, "1k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("2k", child_name, "2k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("4k", child_name, "4k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.exr".format("8k", child_name, "8k"),
-                    "https://download.polyhaven.com/HDRIs/16k and up/{0}_{1}.exr".format(child_name, "16k"),
-                    "https://download.polyhaven.com/HDRIs/19k and up/{0}_{1}.exr".format(child_name, "19k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("1k", child_name, "1k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("2k", child_name, "2k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("4k", child_name, "4k"),
-                    "https://download.polyhaven.com/HDRIs/{0}/{1}_{2}.hdr".format("8k", child_name, "8k"),
-                    "https://download.polyhaven.com/HDRIs/16k and up/{0}_{1}.hdr".format(child_name, "16k"),
-                    "https://download.polyhaven.com/HDRIs/19k and up/{0}_{1}.hdr".format(child_name, "19k")]
+    download_links = ["https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.exr".format("1k", child_name, "1k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.exr".format("2k", child_name, "2k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.exr".format("4k", child_name, "4k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.exr".format("8k", child_name, "8k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/{0}_{1}.exr".format(child_name, "16k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/{0}_{1}.exr".format(child_name, "19k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.hdr".format("1k", child_name, "1k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.hdr".format("2k", child_name, "2k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.hdr".format("4k", child_name, "4k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/{0}/{1}_{2}.hdr".format("8k", child_name, "8k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/16k and up/{0}_{1}.hdr".format(child_name, "16k"),
+                    "https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/19k and up/{0}_{1}.hdr".format(child_name, "19k")]
 
     return download_links
 
@@ -102,7 +102,7 @@ def get_download_path():
         return os.path.join(os.path.expanduser('~'), 'downloads')
 
 
-def download_files(driver, child_name, path, debug=False):
+def download_files(driver, child_name, load_ignore_json, path, debug=False):
     if (debug == True):
         print(child_name, path)
 
@@ -110,21 +110,35 @@ def download_files(driver, child_name, path, debug=False):
     download_path = get_download_path()
 
     for i, path in enumerate(path, start=0):
+        skip_download = False
         if (os.path.exists(path) == True):
             if (getFolderSize(path) > 0):
                 continue
         
         for _ in range(2):
+            file_name = download_links[i].replace("https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/", "")
+            file_name = file_name[file_name.rindex('/')+1:]
+
+            for ignore_link in load_ignore_json:
+                key_name = file_name + "_" + str(i)
+                if key_name in ignore_link:
+                    skip_download = True
+                    break
+            if (skip_download == True):
+                break
+
             driver.get(download_links[i])
             download_wait(download_path)
-            file_name = download_links[i].replace("https://download.polyhaven.com/HDRIs/", "")
-            file_name = file_name[file_name.rindex('/')+1:]
             if (os.path.isfile(download_path + "\\" + file_name)):
                 shutil.move(download_path + "\\" + file_name, path + "\\" + file_name)
                 break
             else:
-                i = i + 4
-    return
+                file_name = download_links[i].replace("https://dl.polyhaven.com/file/ph-assets/HDRIs/exr/", "")
+                file_name = file_name[file_name.rindex('/')+1:]
+                load_ignore_json.append({file_name + "_" + str(i): download_links[i]})
+                i = i + 6
+
+    return load_ignore_json
 
 
 def download_icon_file(driver, icon_src, child_name):
@@ -168,13 +182,20 @@ def main(argv):
         icon_src = child.find_element(selenium.By.XPATH, ".//div/div[1]/img[2]").get_attribute("data-src")
         data = { "name": name, "img_src": icon_src }
         child_names.append(data)
-        
+    
+    load_ignore_json = []
+    with open('ignore_links.json') as json_file:
+        load_ignore_json = json.load(json_file)
+
     for child in child_names:
         bar.next()
         path = create_paths(child["name"])
 
-        download_files(driver=driver, child_name=child["name"], path=path, debug=False)
+        load_ignore_json = download_files(driver=driver, child_name=child["name"], load_ignore_json=load_ignore_json, path=path, debug=False)
         download_icon_file(driver, child["img_src"], child["name"])
+
+    with open('ignore_links.json', 'w') as outfile:
+        json.dump(load_ignore_json, outfile, indent=4)
 
     bar.finish()
     print("Completed! Shutting down")
